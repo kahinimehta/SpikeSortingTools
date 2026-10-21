@@ -1,2 +1,2 @@
 # SpikeSortingTools
-Information/ tools for spikesorting
+Information/ tools for spike-sorting
